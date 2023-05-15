@@ -58,6 +58,6 @@ Model-View-Controller pattern, adding other UIs (like a web one) will not be so 
 
 ## Conclusion
 
-I'm really happy for being accepted into GSoC 2023, even more because I'll be contributing to kw
+I'm happy for being accepted into GSoC 2023, even more, because I'll be contributing to kw
 that really "feels like home". I can't predict the future but I truly believe that, if everything
 goes well, the kw project will have a marvelous addition in about 12-22 weeks.
