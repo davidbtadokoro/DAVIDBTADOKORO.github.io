@@ -56,6 +56,11 @@ the [lore.kernel.org](https://lore.kernel.org) archives and provide a much more 
 the public mailing lists. At first the UI will be terminal based using `dialog`. However by using the
 Model-View-Controller pattern, adding other UIs (like a web one) will not be so complicated.
 
+> You can check my GSoC 23 application [here][1].
+{: .prompt-tip }
+
+[1]:{{ site.url }}/download/GSoC23_kw_application_davidtadokoro.pdf
+
 ## Conclusion
 
 I'm happy for being accepted into GSoC 2023, even more, because I'll be contributing to kw
